@@ -1,3 +1,9 @@
+<h1 align="center">
+  tomasz.wegrzyn.com website
+</h1>
+
+This website in based on  <a href="https://github.com/gatsbyjs/gatsby-starter-blog">Gatsby's blog starter</a>
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">

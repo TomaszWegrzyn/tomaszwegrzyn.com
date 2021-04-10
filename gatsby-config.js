@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tomasz Węgrzyn`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Tomasz Węgrzyn`,
+      summary: `a passionate software developer.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Personal website by Tomasz Węgrzyn, software developer from Kielce, Poland`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      github: `TomaszWegrzyn`,
+      linkedin: 'tomasz-węgrzyn',
+      email: 'mail@tomaszwegrzyn.com'
     },
   },
   plugins: [
@@ -123,6 +125,7 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-gatsby-cloud`,
+    'gatsby-plugin-dark-mode',
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
