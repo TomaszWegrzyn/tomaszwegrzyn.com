@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3bd0ed2a-6bd1-4a28-9bb7-2e92f9d27797/deploy-status)](https://app.netlify.com/sites/tomaszwegrzyn/deploys)
 
 <h1 align="center">
-  tomasz.wegrzyn.com website
+  tomaszwegrzyn.com website
 </h1>
 
 My personal website/blog. <br>
