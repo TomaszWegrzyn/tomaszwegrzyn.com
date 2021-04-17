@@ -1,8 +1,11 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3bd0ed2a-6bd1-4a28-9bb7-2e92f9d27797/deploy-status)](https://app.netlify.com/sites/tomaszwegrzyn/deploys)
+
 <h1 align="center">
   tomasz.wegrzyn.com website
 </h1>
 
-This website in based on  <a href="https://github.com/gatsbyjs/gatsby-starter-blog">Gatsby's blog starter</a>
+My personal website/blog. <br>
+Based on  <a href="https://github.com/gatsbyjs/gatsby-starter-blog">Gatsby's blog starter</a>
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
