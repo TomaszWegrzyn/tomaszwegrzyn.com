@@ -9,12 +9,12 @@ That is not a problem, because you can always quickly experiment and figure stuf
 
 ...Unless it's related to passing parameters to functions. I found out that sometimes people tend to confuse "pass by value" and "pass by reference". 
 
-## Technically variables are passed by value 
+### Technically variables are passed by value 
 Most of modern languages are very similar - everything or almost everything(for a sake of simplicity we will ignore primitive types) is an object. All objects are stored on the heap and the variables we operate on are just references to those objects.
 When we pass a variable to a function, the variable's value(that is a reference to actual object) will be used to create function argument. 
 Therefore newly created function argument points to the same object as the variable that was passed into the function
 
-### Let's take a look at few examples
+### Lets take a look at few examples
 
 JavaScript:
 ```javascript
