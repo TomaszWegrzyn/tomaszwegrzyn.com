@@ -1,5 +1,5 @@
 ---
-title: "Mongo cluster with docker compose - harder that I thought"
+title: "Mongo cluster with docker compose - harder than I thought"
 date: "2024-08-03T18:15:07.11Z"
 description: "After a lot of confusion, hopefully I learned something about docker"
 ---
@@ -52,7 +52,7 @@ var config = {
 
 With mongo, each node in replica set needs to know publicly accessible addresses of other nodes.
 Therefore connecting to localhost:27017 is not enough, because after initial connection mongo informs clients about configured adresses of all nodes in replica set. 
-Therefore, after connecting initially to `localhost:27017`, my local app client tries to connect to for instance `mongo2:27017` and fails. 
+Therefore, after connecting initially to `localhost:27017`, my local app client tries to connect to instance `mongo2:27017` and fails. 
 
 
 ## Quick fix?
